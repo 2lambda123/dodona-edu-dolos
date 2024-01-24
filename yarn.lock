@@ -4125,12 +4125,12 @@ tree-sitter-c-sharp@^0.20.0:
   dependencies:
     nan "^2.14.0"
 
-tree-sitter-c@^0.20.6:
-  version "0.20.6"
-  resolved "https://registry.yarnpkg.com/tree-sitter-c/-/tree-sitter-c-0.20.6.tgz#fd88514eef58f221a2960cbcd81df9feba4474c4"
-  integrity sha512-YosSBUOJ21j4mb7SmDmKI3QYQb7ANj55u2RTlj0XHQ6gFoLkpHzJDGvVK4zlbvqyPXA0u62LdhTwbLvYzHWcdw==
+tree-sitter-c@^0.20.7:
+  version "0.20.7"
+  resolved "https://registry.yarnpkg.com/tree-sitter-c/-/tree-sitter-c-0.20.7.tgz#3f88ff9761fd1ad12ea4fe93e0e1c6d2c8e87efb"
+  integrity sha512-T8m3hT4EAHfwFl0uSuQbYM2zImjs5njp+wIfwB8a0g0BMAlFkzdPAUomuNrKBvvMRYkhe4YMpK3r4tV+UPm/aw==
   dependencies:
-    nan "^2.17.0"
+    nan "^2.18.0"
 
 tree-sitter-cpp@^0.20.3:
   version "0.20.3"
