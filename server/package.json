@@ -31,7 +31,7 @@
     "express-fileupload": "^1.4.3",
     "sanitize-filename": "^1.6.3",
     "unzipper": "^0.10.11",
-    "express-rate-limit": "^5.4.0",
+    "express-rate-limit": "^7.2.0",
     "unique-names-generator": "^4.6.0",
     "async-csv": "^2.1.3"
   },
